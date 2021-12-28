@@ -14,9 +14,7 @@
 
 下面是开始该项目前绘制的思维导图：
 
-<img src = src/QQ截图20211209211408.png)/>
-
-![](src/mind.png)
+<img src = src/mind.png />
 
 
 
